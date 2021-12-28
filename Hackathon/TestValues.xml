@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Env>
+    <PlatfromName>Web</PlatfromName>
+    <WebPlatform>Chrome</WebPlatform>
+    <UserName>admin</UserName>
+    <Password>admin</Password>
+    <URL>http://localhost:3000/</URL>
+    <URLAndroid>http://localhost:4723/wd/hub</URLAndroid>
+    <URLPluginsMySql>plugins/mysql?page=overview</URLPluginsMySql>
+    <HomePageTitle>Home - Grafana</HomePageTitle>
+    <NewName>ilan</NewName>
+    <NewEmail>Shira@gmail.com</NewEmail>
+    <NewUserName>Tehila123</NewUserName>
+    <NewPassword>123456789</NewPassword>
+    <xmlFileName>grafanaWebData</xmlFileName>
+    <URLDashb>http://localhost:3000/?orgId=1</URLDashb>
+    <ResultAdd>18</ResultAdd>
+    <ResultSub>8</ResultSub>
+    <ResultDiv>4.5</ResultDiv>
+    <ResultMul>45</ResultMul>
+    <OZResult>192</OZResult>
+    <TempResult>-1.111111</TempResult>
+    <CurrencyResult>ILS</CurrencyResult>
+    <Balance>9000</Balance>
+    <pathGetAllUsers>/api/users</pathGetAllUsers>
+    <pathPost_DeleteUser>/api/admin/users/</pathPost_DeleteUser>
+    <pathFolder>/api/folders/</pathFolder>
+    <pathChangePassword>/api/user/password</pathChangePassword>
+    <DBUrl>jdbc:mysql://remotemysql.com:3306/4hQQDHFqGp</DBUrl>
+    <UserNameDB>4hQQDHFqGp</UserNameDB>
+    <PasswordDB>n7WCdUznEI</PasswordDB>
+<PathOfMySqlPic>D:\Hackathon\Hackathon\Hackathon\SikuliPictures\mySql.PNG</PathOfMySqlPic>
+    <StatusCode200>200</StatusCode200>
+</Env>
